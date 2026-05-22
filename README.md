@@ -28,4 +28,4 @@ Built a travel journal platform for documenting trips, routes, weather, and trav
 
 ## Contact
 - Email: akshitha.tolupunuri@gmail.com
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/akshithatolupunuri/
